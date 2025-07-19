@@ -1,4 +1,4 @@
-# Yomikiru
+# Sex Kursu
 
 **A powerful offline manga, manhwa, comic, and novel reader for desktop**
 
